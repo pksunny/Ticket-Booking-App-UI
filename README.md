@@ -1,10 +1,8 @@
-# 👉 ticket_bookin_app_ui 👈 ##
-
 ## 🔥 TICKET BOOKING APP UI 🔥 ##
 
 ## 😯 BONUS ◕ 4 ◕ REUSEABLE WIDGETS 😱 ##
 
-## 👇 SCREENSHOTS OF TICKET BOKING APP VIA FLUTTER 👇 ##
+## 👇 SCREENSHOTS OF TICKET BOOKING APP VIA FLUTTER 👇 ##
 
 ## ✪ HOME SCREEN ✪ ##
 ![HomeScreen](https://user-images.githubusercontent.com/109496783/180703179-cccfea58-efb5-4a35-b47c-cd03758f0b38.PNG)
