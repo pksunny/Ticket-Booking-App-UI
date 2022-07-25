@@ -1,16 +1,22 @@
-# ticket_booking_ui
+# 👉 ticket_bookin_app_ui 👈 ##
 
-A new Flutter project.
+## 🔥 TICKET BOOKING APP UI 🔥 ##
 
-## Getting Started
+## 😯 BONUS ◕ 4 ◕ REUSEABLE WIDGETS 😱 ##
 
-This project is a starting point for a Flutter application.
+## 👇 SCREENSHOTS OF TICKET BOKING APP VIA FLUTTER 👇 ##
 
-A few resources to get you started if this is your first Flutter project:
+## ✪ HOME SCREEN ✪ ##
+![HomeScreen](https://user-images.githubusercontent.com/109496783/180703179-cccfea58-efb5-4a35-b47c-cd03758f0b38.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✪ SEARCH SCREEN ✪ ##
+![SearchScreen](https://user-images.githubusercontent.com/109496783/180703251-fabf5eef-c785-48a3-ad49-ae3c9e0dc960.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✪ TICKET SCREEN ✪ ##
+![TicketScreen](https://user-images.githubusercontent.com/109496783/180703264-ce405046-a186-4a5b-8804-49750ef0efec.PNG)
+
+## ✪ PROFILE SCREEN ✪ ##
+![ProfileScreen](https://user-images.githubusercontent.com/109496783/180703271-acda54e2-83ac-4ffa-b818-cf776ac3f638.PNG)
+
+
+## THANKYOU! 😊💖 ##
